@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ha-seeb
+- 👋 Hi, I’m @Haseeb_Mazhar
 - 👀 I’m interested in 🏑
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
