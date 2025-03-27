@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haseeb_Mazhar
-- 👀 I’m interested in 🏑
+- 👀 I’m interested in Front-end Developement
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
